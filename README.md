@@ -69,3 +69,9 @@ AI generation is configured to use a local Ollama instance rather than a third-p
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
+
+
+## Screenshots
+
+![GigCraft AI interface](screenshots/gigcraft-dashboard.png)
+
